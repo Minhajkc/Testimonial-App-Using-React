@@ -1,0 +1,53 @@
+[
+    {
+      "name": "Alice Johnson",
+      "photo_url": "https://randomuser.me/api/portraits/women/44.jpg",
+      "description": "Software developer with a passion for open-source projects and AI."
+    },
+    {
+      "name": "Bob Smith",
+      "photo_url": "https://randomuser.me/api/portraits/men/45.jpg",
+      "description": "Graphic designer and digital artist, specialized in branding and UI/UX design."
+    },
+    {
+      "name": "Carol Williams",
+      "photo_url": "https://randomuser.me/api/portraits/women/46.jpg",
+      "description": "Product manager with a background in e-commerce and user experience."
+    },
+    {
+      "name": "David Brown",
+      "photo_url": "https://randomuser.me/api/portraits/men/47.jpg",
+      "description": "Full-stack developer focusing on web development using MERN stack."
+    },
+    {
+      "name": "Eva Davis",
+      "photo_url": "https://randomuser.me/api/portraits/women/48.jpg",
+      "description": "Data scientist with expertise in machine learning and data visualization."
+    },
+    {
+      "name": "Frank Miller",
+      "photo_url": "https://randomuser.me/api/portraits/men/49.jpg",
+      "description": "Cybersecurity expert with experience in network security and ethical hacking."
+    },
+    {
+      "name": "Grace Lee",
+      "photo_url": "https://randomuser.me/api/portraits/women/50.jpg",
+      "description": "Marketing specialist with a focus on digital marketing and content strategy."
+    },
+    {
+      "name": "Henry Clark",
+      "photo_url": "https://randomuser.me/api/portraits/men/51.jpg",
+      "description": "Blockchain developer and cryptocurrency enthusiast."
+    },
+    {
+      "name": "Isabella Martinez",
+      "photo_url": "https://randomuser.me/api/portraits/women/52.jpg",
+      "description": "UX/UI designer with a passion for creating intuitive and user-friendly interfaces."
+    },
+    {
+      "name": "Jack Wilson",
+      "photo_url": "https://randomuser.me/api/portraits/men/53.jpg",
+      "description": "Mobile app developer specializing in Android and iOS platforms."
+    }
+  ]
+  
